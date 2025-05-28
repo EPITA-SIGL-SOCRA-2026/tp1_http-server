@@ -7,7 +7,7 @@ Ce TP est destiné aux étudiants d'EPITA SIGL 2026 dans le cadre du cours de SO
 Votre mission est de **servir une première version de votre application So-Close** sur le domaine qui vous est attribué.
 
 URL attendue :  
-`http://so-close.groupXX.socra-sigl.fr`
+`http://so-close.groupeXX.socra-sigl.fr`
 (sans HTTPS obligatoire, sauf en bonus)
 
 ---
