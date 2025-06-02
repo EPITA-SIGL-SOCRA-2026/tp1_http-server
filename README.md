@@ -25,7 +25,7 @@ URL attendue :
 - Utilisez la clé privée fournie pour vous connecter à votre machine de binôme
 
 ```bash
-ssh -i <chemin_vers_votre_cle_privee> ubuntu@so-close.groupXX.socra-sigl.fr
+ssh -i <chemin_vers_votre_cle_privee> sigl@so-close.groupXX.socra-sigl.fr
 ```
 
 > Remplacez groupXX par le numéro de votre groupe, et adaptez le chemin vers votre clé selon votre système d’exploitation.
@@ -38,7 +38,7 @@ ssh -i <chemin_vers_votre_cle_privee> ubuntu@so-close.groupXX.socra-sigl.fr
   - Un logo qui claque
 
 > 💡 Astuce: vous pouvez créer votre page HTML sur votre ordinateur personel puis l'envoyer sur votre serveur
-> en utilisant la commande `scp -i <chemin/vers/votre_clé_privée> index.html ubuntu@so-close.groupXX.socra-sigl.fr:/home/ubuntu`
+> en utilisant la commande `scp -i <chemin/vers/votre_clé_privée> index.html sigl@so-close.groupXX.socra-sigl.fr:/home/sigl`
 
 **Bonus** : Activer HTTPS avec Let's Encrypt
 
